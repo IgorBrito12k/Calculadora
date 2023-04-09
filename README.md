@@ -1,5 +1,5 @@
 # Calculadora
-Simples calculadora usando html, css e javascript e usando modo claro e modo noturno
+Simples calculadora feita para fins didátuicos usando html, css e javascript e usando modo claro e modo noturno, feito seguindo o tutorial do canal Not Only Dev no YouTube
 
 # Prints
 
